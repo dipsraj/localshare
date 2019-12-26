@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="version" content="2d14e35a088a2b4409eae4acb696fbb0a172ad0a">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<title><!--#echo var="SERVER_NAME" --></title>
+<link href="/.abba/css/style.css" rel="stylesheet">
+<!--[if lt IE 9]>
+	<script src="/.abba/js/iefix.js"></script>
+	<![endif]-->
+</head>
+<body>
+<header>
+<nav class="navbar navbar-default">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/">
+<span class="icon icon-abba" aria-hidden="true"></span>
+
+</a>
+</div>
+</div>
+</nav>
+</header>
+<main>
+<div class="container">
+<div class="jumbotron">
+<h1>
+Internal Server Error
+<span class="icon icon-ambulance" aria-hidden="true"></span>
+</h1>
+<p>
+The server encountered an internal error or misconfiguration and was unable to complete your request.
+More information about this error may be available in the server error log.
+</p>
+<button class="btn btn-primary">
+<span class="icon icon-left" aria-hidden="true"></span>
+Back
+</button>
+</div>
+</div>
+</main>
+<script src="/.abba/js/script.js"></script>
+</body>
+</html>
